@@ -26,11 +26,11 @@ data(migrationF)
 \note{Distributions of net migrants by age and sex are provided for illustrative purpose only. Migration figures are based on intercensal net residuals and official statistics, population distribution by age and sex or simplified versions of Rogers-Castro migration age patterns, and incorporate statistical adjustment errors.}
 
 \source{
- These datasets are based on estimates and projections of United Nations, Department of Economic and Social Affairs, Population Division (2011). 
+ These datasets are based on estimates and projections of United Nations, Department of Economic and Social Affairs, Population Division (2009). 
  }
  
  \references{
- World Population Prospects: The 2008 Revision. (\url{http://esa.un.org/unpd/wpp}) Special Tabulations.
+ World Population Prospects: The 2008 Revision. Special Tabulations.
 }
 
 \examples{

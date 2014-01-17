@@ -23,11 +23,11 @@ data(popF)
   }
 }
 \source{
- These datasets are based on estimates and projections of United Nations, Department of Economic and Social Affairs, Population Division (2011). 
+ These datasets are based on estimates and projections of United Nations, Department of Economic and Social Affairs, Population Division (2009). 
  }
  
  \references{
- World Population Prospects: The 2008 Revision. (\url{http://esa.un.org/unpd/wpp}) Special Tabulations.
+ World Population Prospects: The 2008 Revision. Special Tabulations.
 }
 
 \examples{

@@ -12,11 +12,11 @@ Data from the United Nations World Population Prospects 2008.
 \details{
 \tabular{ll}{
 Package: \tab wpp2008\cr
-Version: \tab 1.0-0\cr
-Date: \tab 2013-5-17\cr
+Version: \tab 1.0-1\cr
+Date: \tab 2014-1-17\cr
 Depends: \tab R (>= 2.14.2)\cr
 License: \tab GPL (>= 2)\cr
-URL: \tab \url{http://esa.un.org/wpp}\cr
+URL: \tab \url{http://esa.un.org/wpp/index.htm}\cr
 }
 
 The package contains the following datasets:
@@ -34,11 +34,11 @@ The package contains the following datasets:
 \note{Distributions of net migrants by age and sex are provided for illustrative purpose only. Migration figures are based on intercensal net residuals and official statistics, population distribution by age and sex or simplified versions of Rogers-Castro migration age patterns, and incorporate statistical adjustment errors.}
 
 \source{
- These datasets are based on estimates and projections of United Nations, Department of Economic and Social Affairs, Population Division (2011). 
+ These datasets are based on estimates and projections of United Nations, Department of Economic and Social Affairs, Population Division (2009). 
  }
  
  \references{
- World Population Prospects: The 2008 Revision. (\url{http://esa.un.org/unpd/wpp}) Special Tabulations.
+ World Population Prospects: The 2008 Revision. Special Tabulations.
 }
 
  \author{
@@ -47,5 +47,5 @@ Hana Sevcikova <hanas@uw.edu>, Patrick Gerland <gerland@un.org>
 Maintainer: Hana Sevcikova <hanas@uw.edu>
 }
 
-\seealso{\code{\link[wpp2010:wpp2010-package]{wpp2010}} for more recent estimates and projections}
+\seealso{\code{\link[wpp2010:wpp2010-package]{wpp2010}} and \code{\link[wpp2012:wpp2012-package]{wpp2012}} for more recent estimates and projections}
 \keyword{ package }
